@@ -17,3 +17,6 @@ describe "toadstool" do
     expect{toadstool}.to output("Thank You Mario! But Our Princess Is In Another Castle!\n").to_stdout
   end
 end
+
+describe "any_phrase" do
+  it "takes in an argument and puts out the catch "
