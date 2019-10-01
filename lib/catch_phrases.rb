@@ -8,5 +8,3 @@ def toadstool
   puts local_variable
 end
 
-def link 
-  it "puts out 'It's Dangerous To Go Alone! Take this"
