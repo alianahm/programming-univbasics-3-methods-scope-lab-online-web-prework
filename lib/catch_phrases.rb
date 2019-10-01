@@ -13,5 +13,5 @@ describe "mario" do
 end
 
 describe "toadstool" do
-  it "puts out 'Thank You Mario! But our Princess Is In Another Castle'" do
-    expect{toadstool}.to output("Thank You Mario")
+  it "puts out 'Thank You Mario! But Our Princess Is In Another Castle'" do
+    expect{toadstool}.to output("Thank You Mario! But ")
