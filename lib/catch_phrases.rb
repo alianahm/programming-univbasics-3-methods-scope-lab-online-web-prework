@@ -9,4 +9,4 @@ def toadstool
 end
 
 def link 
-  
+  it "puts out 'It's Dangerous To Go Alone! Take this"
