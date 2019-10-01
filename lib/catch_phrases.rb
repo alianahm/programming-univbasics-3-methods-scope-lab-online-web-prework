@@ -9,3 +9,8 @@ end
 describe "mario" do
   it "puts out 'It's-a me, Mario!'" do
     expect{mario}.to output("It's-a me, Mario!\n").to_stdout
+  end
+end
+
+describe "toadstool" do
+  it "puts out 'Thank You Mario! But our Princess"
