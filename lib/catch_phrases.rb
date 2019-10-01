@@ -4,5 +4,6 @@ def mario
 end
 
 def toadstool
-  puts status
+  local_variable = 'Hey Mario! How are you?'
+  puts local_variable
 end
