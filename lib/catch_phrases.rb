@@ -7,3 +7,6 @@ def toadstool
   local_variable = 'Hey Mario! How are you?'
   puts local_variable
 end
+
+def link 
+  
