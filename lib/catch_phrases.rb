@@ -13,4 +13,4 @@ describe "mario" do
 end
 
 describe "toadstool" do
-  it "puts out 'Thank You Mario! But our Princess"
+  it "puts out 'Thank You Mario! But our Princess is in "
